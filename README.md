@@ -1,5 +1,7 @@
 # Shoreline
 Its probably not ratted since it was never meant to be released and zane "allegedly" checked the code. I dunno, I'm 85% sure its safe to use.
+
+Download the wide spread and last public version [here](https://github.com/primewk/shoreline-src/releases/tag/coastline)
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/6036eba5-5ae3-4ab4-822b-d05523191e4c)
