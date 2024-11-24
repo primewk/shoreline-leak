@@ -1,0 +1,35 @@
+accessWidener	v1	intermediary
+accessible	class	net/minecraft/class_2824$class_5907
+accessible	class	net/minecraft/class_2824$class_5910
+accessible	class	net/minecraft/class_2824$class_5906
+accessible	class	net/minecraft/class_327$class_5232
+accessible	method	net/minecraft/class_327	method_27515	(I)I
+accessible	method	net/minecraft/class_327	method_1724	(Ljava/lang/String;FFIZLorg/joml/Matrix4f;Lnet/minecraft/class_4597;Lnet/minecraft/class_327$class_6415;II)F
+accessible	field	net/minecraft/class_327	field_39925	Z
+accessible	method	net/minecraft/class_327	method_27526	(Lnet/minecraft/class_2960;)Lnet/minecraft/class_377;
+accessible	field	net/minecraft/class_746	field_3926	D
+accessible	field	net/minecraft/class_746	field_3940	D
+accessible	field	net/minecraft/class_746	field_3924	D
+accessible	field	com/mojang/blaze3d/systems/RenderSystem	shaderLightDirections	[Lorg/joml/Vector3f;
+accessible	method	net/minecraft/class_1921	method_24048	(Ljava/lang/String;Lnet/minecraft/class_293;Lnet/minecraft/class_293$class_5596;ILnet/minecraft/class_1921$class_4688;)Lnet/minecraft/class_1921$class_4687;
+accessible	class	net/minecraft/class_1921$class_4688
+accessible	class	net/minecraft/class_4668$class_4683
+accessible	field	net/minecraft/class_4668	field_29422	Lnet/minecraft/class_4668$class_5942;
+accessible	field	net/minecraft/class_4668	field_21350	Lnet/minecraft/class_4668$class_4686;
+accessible	field	net/minecraft/class_4668	field_21345	Lnet/minecraft/class_4668$class_4671;
+accessible	field	net/minecraft/class_4668	field_21368	Lnet/minecraft/class_4668$class_4685;
+accessible	field	net/minecraft/class_4668	field_21381	Lnet/minecraft/class_4668$class_4684;
+accessible	field	net/minecraft/class_4668	field_21347	Lnet/minecraft/class_4668$class_4672;
+accessible	field	net/minecraft/class_4668	field_21346	Lnet/minecraft/class_4668$class_4672;
+accessible	class	net/minecraft/class_4668$class_4672
+accessible	class	net/minecraft/class_4668$class_5942
+accessible	class	net/minecraft/class_4668$class_4676
+accessible	class	net/minecraft/class_4668$class_4670
+accessible	field	net/minecraft/class_4668	field_21361	Ljava/lang/Runnable;
+accessible	field	net/minecraft/class_4668	field_21362	Ljava/lang/Runnable;
+accessible	class	net/minecraft/class_1071$class_8687
+accessible	class	net/minecraft/class_310$class_8764
+accessible	method	net/minecraft/class_1007	method_4218	(Lnet/minecraft/class_742;)V
+accessible	class	net/minecraft/class_758$class_7286
+accessible	method	net/minecraft/class_310	method_1536	()Z
+accessible	field	net/minecraft/class_7172	field_37865	Lnet/minecraft/class_7172$class_7178;
